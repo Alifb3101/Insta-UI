@@ -136,7 +136,7 @@ List  <bool> isselected = [false, false, false, false, false];
                         });
 
                       }, icon: Icon(isselected[index]? Icons.favorite : CupertinoIcons.heart , color: isselected[index]? Colors.red : Colors.black,)),
-                      Text("233"),
+                      Text("231"),
 
                       IconButton(onPressed: () {
 
